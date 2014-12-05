@@ -1,0 +1,12 @@
+{
+    "name": "xbazilio/yii2-jswidget",
+    "description": "Outputs javascript code using yii\\web\\View::registerJs().",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vasiliy Rumyantsev",
+            "email": "x.bazilio@gmail.com"
+        }
+    ],
+    "require": {}
+}
