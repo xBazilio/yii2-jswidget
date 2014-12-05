@@ -3,7 +3,7 @@
  * @link https://github.com/xBazilio
  * @license http://bazilio.mit-license.org/
  */
-namespace xBazilio\widgets;
+namespace xBazilio\JSWidget;
 
 use Yii;
 use yii\base\Widget;

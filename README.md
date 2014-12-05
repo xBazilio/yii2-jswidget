@@ -13,7 +13,7 @@ todo
 
 ```html
 <?php
-use xBazilio\widgets\JSWidget;
+use xBazilio\JSWidget\JSWidget;
 ?>
 
 <?php JSWidget::begin(); ?>
