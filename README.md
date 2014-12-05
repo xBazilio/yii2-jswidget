@@ -11,7 +11,7 @@ todo
 
 #Usage
 
-```
+```html
 <?php JSWidget::begin(); ?>
 <script type="text/javascript">
 console.log('test');
