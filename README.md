@@ -28,6 +28,7 @@ console.log('test');
 
 If there are two widgets with the same id, the later will take precedence and overwrite the former
 
+```html
 <?php
 use xBazilio\JSWidget\JSWidget;
 ?>
