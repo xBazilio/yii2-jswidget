@@ -12,9 +12,14 @@ todo
 #Usage
 
 ```html
+<?php
+use xBazilio\widgets\JSWidget
+?>
+
 <?php JSWidget::begin(); ?>
 <script type="text/javascript">
 console.log('test');
 </script>
 <?php JSWidget::end(); ?>
+
 ```
